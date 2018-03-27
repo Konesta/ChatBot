@@ -1,0 +1,10 @@
+c:\users\konsta\source\repos\SongBot\SongBot\bin\Debug\SongBot.exe.config
+c:\users\konsta\source\repos\SongBot\SongBot\bin\Debug\SongBot.exe
+c:\users\konsta\source\repos\SongBot\SongBot\bin\Debug\SongBot.pdb
+c:\users\konsta\source\repos\SongBot\SongBot\obj\Debug\SongBot.csprojResolveAssemblyReference.cache
+c:\users\konsta\source\repos\SongBot\SongBot\obj\Debug\SongBot.Form1.resources
+c:\users\konsta\source\repos\SongBot\SongBot\obj\Debug\SongBot.Properties.Resources.resources
+c:\users\konsta\source\repos\SongBot\SongBot\obj\Debug\SongBot.csproj.GenerateResource.Cache
+c:\users\konsta\source\repos\SongBot\SongBot\obj\Debug\SongBot.csproj.CoreCompileInputs.cache
+c:\users\konsta\source\repos\SongBot\SongBot\obj\Debug\SongBot.exe
+c:\users\konsta\source\repos\SongBot\SongBot\obj\Debug\SongBot.pdb
